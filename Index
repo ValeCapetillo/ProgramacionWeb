@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Maqueta HTML 5 </title>
+<link rel="stylesheet" type="text/css" href="ejemplo1.css" />
+</head>
+<body>
+<header>
+  <h1>Página en HTML 5</h1>
+  <h2>Subtítulo de la página</h2>
+</header>
+<nav> 
+  <ul>
+    <li><a class="active" href="Ej_maqueta2.html">Home</a></li>
+    <li><a href="Inscripcion.html">Inscripcion</a></li>
+    <li><a href="Socios.html">Socios</a></li>
+    <li><a href="Galeria.html">Galeria</a></li>
+    <li><a href="Acercade.html">Acerca de</a></li>
+  </ul>
+
+  
+
+</nav>
+<section>
+  <h1>Parte principal de la página: Título</h1>
+  <h2>Subtítulo de la parte principal.</h2>
+  <h3>Artículo primero</h3>
+    <article>
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
+    nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi
+    enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis 
+    nisl ut aliquip ex ea commodo consequat. </p>
+    </article>
+  <h3>Artículo segundo</h3>
+    <article>
+    <p>Duis autem vel eum iriure dolor in hendrerit 
+    in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla 
+    insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes 
+    demonstraverunt lectores legere me lius quod ii legunt saepius. </p>
+    </article>
+  <h3>Artículo  tercero</h3>
+    <article>
+    <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.  
+    Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</p>
+    </article>
+  <br/><br/>
+</section>
+<aside>
+   <div id="anuncio1">
+      <h1>Espacio reservado para publicidad</h1>
+      <h2>Anúnciate aquí</h2>
+      <p>Da a conocer tu empresa o negocio en Internet anunciándote en 
+      este espacio.<p>
+      <p>Interesados llamar al telefono 000_000_000</p>
+    </div>
+</aside>
+<footer>
+   <h1>Página del curso programacion Web</h1>
+   <h2>Contacta con profesor: email <a href="mailto:ncarvallosdev@gmail.com">Nelson Carvallo</a></h2>
+   <br/>
+</footer>
+</body>
+</html>
